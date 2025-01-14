@@ -31,6 +31,7 @@ E claro, um bom engenheiro nunca para de aprender! Sempre estou em busca de nova
 ## 🎸 Fora do Código
 
 Quando não estou imerso no mundo dos bits e bytes, você pode me encontrar:  
+
 🎸 Tocando guitarra como se fosse a minha linguagem de programação favorita.  
 🍷  Descobrindo novos vinhos e explorando sabores ao redor do mundo.  
 🎮 Mergulhando em universos digitais (meus chefes finais nem sabem o que os atingiu).  
