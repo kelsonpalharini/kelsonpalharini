@@ -3,8 +3,7 @@
 Olá, seja bem-vindo(a) ao meu espaço! 👋  
 Sou um **Engenheiro de Software** com **16 anos de experiência** desbravando o universo do desenvolvimento, criando soluções que fazem o mundo (ou pelo menos os sistemas) girar melhor. 🌍✨
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelsonpalharini)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kelsonpalharini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelsonpalharini) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kelsonpalharini)
 
 ---
 
