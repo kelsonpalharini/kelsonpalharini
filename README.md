@@ -8,6 +8,7 @@ Sou um **Engenheiro de Software** com **16 anos de experiência** desbravando o 
 ---
 
 ## 🚀 Minha Jornada Tecnológica
+
 Ao longo dessa caminhada, tive a honra de **transformar ideias em realidade** e resolver problemas cabeludos com elegância e eficiência. Aqui estão algumas das ferramentas mágicas que fazem parte do meu arsenal:
 
 - **Java**: Onde tudo começou! Já criei desde robustos sistemas de back-end até APIs que nunca param de rodar (e ainda ganham elogios dos clientes). 🏗️  
@@ -20,6 +21,7 @@ E claro, um bom engenheiro nunca para de aprender! Sempre estou em busca de nova
 ---
 
 ## 🏆 Superpoderes
+
 - Criador de **ferramentas poderosas** para **e-commerce**, **gestão de lojas** e **oficinas mecânicas** que fazem a diferença no dia a dia de negócios.  
 - **Integração mestre**: APIs do governo? Gateways de pagamento? Pode mandar que eu resolvo! 🔗  
 - Especialista em transformar linhas de código em soluções de **alto impacto e valor agregado**.  
@@ -27,14 +29,16 @@ E claro, um bom engenheiro nunca para de aprender! Sempre estou em busca de nova
 ---
 
 ## 🎸 Fora do Código
+
 Quando não estou imerso no mundo dos bits e bytes, você pode me encontrar:  
 🎸 Tocando guitarra como se fosse a minha linguagem de programação favorita.  
-🍷 Descobrindo novos vinhos e explorando sabores ao redor do mundo.  
+🍷  Descobrindo novos vinhos e explorando sabores ao redor do mundo.  
 🎮 Mergulhando em universos digitais (meus chefes finais nem sabem o que os atingiu).  
 
 ---
 
 ## 🤝 Vamos Criar Juntos?
+
 Estou sempre à procura de novos desafios, conexões e oportunidades para colaborar em projetos que importam.  
 💬 **Vamos trocar uma ideia?** Você pode me encontrar aqui no LinkedIn ou enviar uma mensagem. Quem sabe o próximo grande projeto não começa aqui? 🚀
 
