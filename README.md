@@ -1,4 +1,4 @@
-# 🛠️ Software Engineer Extraordinaire | 16 anos de aventuras no mundo do código
+# 🛠️ Software Engineer | 16 anos de aventuras no mundo do código
 
 Olá, seja bem-vindo(a) ao meu espaço! 👋  
 Sou um **Engenheiro de Software** com **16 anos de experiência** desbravando o universo do desenvolvimento, criando soluções que fazem o mundo (ou pelo menos os sistemas) girar melhor. 🌍✨
