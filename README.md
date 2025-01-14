@@ -13,7 +13,7 @@ Ao longo dessa caminhada, tive a honra de **transformar ideias em realidade** e 
 
 - **Java**: Onde tudo começou! Já criei desde robustos sistemas de back-end até APIs que nunca param de rodar (e ainda ganham elogios dos clientes). 🏗️  
 - **Node.js**: Parceiro inseparável para arquiteturas modernas e escaláveis. Aqui, o full-stack virou rotina e a performance, estilo de vida. ⚡  
-- **Go (Golang)**: A paixão pela simplicidade e performance me levou a escrever códigos que voam mais rápido que a luz. 🚀  
+- **Go**: A paixão pela simplicidade e performance me levou a escrever códigos que voam mais rápido que a luz. 🚀  
 - **Python**: O canivete suíço que me acompanha em automações, análises e sistemas inteligentes. 🐍✨  
 
 E claro, um bom engenheiro nunca para de aprender! Sempre estou em busca de novas ferramentas e tecnologias para explorar.
