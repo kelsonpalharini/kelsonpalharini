@@ -8,15 +8,24 @@ Sou um **Engenheiro de Software** com **16 anos de experiência** desbravando o 
 ---
 
 ## 🚀 Minha Jornada Tecnológica
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org) [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) 
 
 Ao longo dessa caminhada, tive a honra de **transformar ideias em realidade** e resolver problemas cabeludos com elegância e eficiência. Aqui estão algumas das ferramentas mágicas que fazem parte do meu arsenal:
-
-- **Java**: Onde tudo começou! Já criei desde robustos sistemas de back-end até APIs que nunca param de rodar (e ainda ganham elogios dos clientes). 🏗️  
-- **Node.js**: Parceiro inseparável para arquiteturas modernas e escaláveis. Aqui, o full-stack virou rotina e a performance, estilo de vida. ⚡  
-- **Go**: A paixão pela simplicidade e performance me levou a escrever códigos que voam mais rápido que a luz. 🚀  
-- **Python**: O canivete suíço que me acompanha em automações, análises e sistemas inteligentes. 🐍✨  
+  
+**Java**: Onde tudo começou! Já criei desde robustos sistemas de back-end até APIs que nunca param de rodar (e ainda ganham elogios dos clientes). 🏗️  
+  
+**Node.js**: Parceiro inseparável para arquiteturas modernas e escaláveis. Aqui, o full-stack virou rotina e a performance, estilo de vida. ⚡  
+ 
+**Go (Golang)**: A paixão pela simplicidade e performance me levou a escrever códigos que voam mais rápido que a luz. 🚀  
+ 
+**Python**: O canivete suíço que me acompanha em automações, análises e sistemas inteligentes. 🐍✨  
 
 E claro, um bom engenheiro nunca para de aprender! Sempre estou em busca de novas ferramentas e tecnologias para explorar.
+
+---
+
+## 📈 Tecnologias mais utilizadas:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelsonpalharini&layout=compact&langs_count=8&theme=radical)](https://github.com/kelsonpalharini)
 
 ---
 
@@ -33,7 +42,7 @@ E claro, um bom engenheiro nunca para de aprender! Sempre estou em busca de nova
 Quando não estou imerso no mundo dos bits e bytes, você pode me encontrar:  
 
 🎸 Tocando guitarra como se fosse a minha linguagem de programação favorita.  
-🍷  Descobrindo novos vinhos e explorando sabores ao redor do mundo.  
+🍷 Descobrindo novos vinhos e explorando sabores ao redor do mundo.  
 🎮 Mergulhando em universos digitais (meus chefes finais nem sabem o que os atingiu).  
 
 ---
