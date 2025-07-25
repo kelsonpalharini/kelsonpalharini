@@ -1,58 +1,60 @@
-# 🛠️ Software Engineer | 16 anos de aventuras no mundo do código
+# 🛠️ Software Engineer | 18 Years of Adventures in the Code World
 
-Olá, seja bem-vindo(a) ao meu espaço! 👋  
-Sou um **Engenheiro de Software** com **16 anos de experiência** desbravando o universo do desenvolvimento, criando soluções que fazem o mundo (ou pelo menos os sistemas) girar melhor. 🌍✨
+Hello and welcome to my space! 👋  
+I'm a **Software Engineer** with **18 years of experience**, navigating the vast universe of development and crafting solutions that make the world (or at least the systems) spin more smoothly. 🌍✨
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelsonpalharini) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kelsonpalharini)
 
 ---
 
-## 🚀 Minha Jornada Tecnológica
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org) [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) 
+## 🚀 My Tech Journey
 
-Ao longo dessa caminhada, tive a honra de **transformar ideias em realidade** e resolver problemas cabeludos com elegância e eficiência. Aqui estão algumas das ferramentas mágicas que fazem parte do meu arsenal:
-  
-**Java**: Onde tudo começou! Já criei desde robustos sistemas de back-end até APIs que nunca param de rodar (e ainda ganham elogios dos clientes). 🏗️  
-  
-**Node.js**: Parceiro inseparável para arquiteturas modernas e escaláveis. Aqui, o full-stack virou rotina e a performance, estilo de vida. ⚡  
- 
-**Go (Golang)**: A paixão pela simplicidade e performance me levou a escrever códigos que voam mais rápido que a luz. 🚀  
- 
-**Python**: O canivete suíço que me acompanha em automações, análises e sistemas inteligentes. 🐍✨  
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)  
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)  
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
-E claro, um bom engenheiro nunca para de aprender! Sempre estou em busca de novas ferramentas e tecnologias para explorar.
+Throughout my journey, I've had the honor of **turning ideas into reality**, solving hairy problems with elegance and efficiency. Here are some of the magical tools in my toolkit:
+
+- **Java**: Where it all began! I've built everything from robust back-end systems to APIs that just won’t quit (and still earn praise from clients). 🏗️  
+- **Node.js**: My go-to partner for modern, scalable architectures. Full-stack became routine, and performance became a lifestyle. ⚡  
+- **Go (Golang)**: My passion for simplicity and speed led me to write code that flies faster than light. 🚀  
+- **Python**: The Swiss army knife I rely on for automations, data analysis, and smart systems. 🐍✨  
+
+And of course, a good engineer never stops learning — I’m always exploring new tools and technologies.
 
 ---
 
-## 📈 Tecnologias mais utilizadas:
+## 📈 Most Used Technologies
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelsonpalharini&layout=compact&langs_count=8&theme=radical)](https://github.com/kelsonpalharini)
 
 ---
 
-## 🏆 Superpoderes
+## 🏆 Superpowers
 
-- Criador de **ferramentas poderosas** para **e-commerce**, **gestão de lojas** e **oficinas mecânicas** que fazem a diferença no dia a dia de negócios.  
-- **Integração mestre**: APIs do governo? Gateways de pagamento? Pode mandar que eu resolvo! 🔗  
-- Especialista em transformar linhas de código em soluções de **alto impacto e valor agregado**.  
-
----
-
-## 🎸 Fora do Código
-
-Quando não estou imerso no mundo dos bits e bytes, você pode me encontrar:  
-
-🎸 Tocando guitarra como se fosse a minha linguagem de programação favorita.  
-🍷 Descobrindo novos vinhos e explorando sabores ao redor do mundo.  
-🎮 Mergulhando em universos digitais (meus chefes finais nem sabem o que os atingiu).  
+- Builder of **powerful tools** for **e-commerce**, **store management**, and **auto repair shops** that make a real difference in business operations.  
+- **Integration master**: Government APIs? Payment gateways? Bring it on — I’ll handle it! 🔗  
+- Expert in transforming lines of code into **high-impact, high-value solutions**.  
 
 ---
 
-## 🤝 Vamos Criar Juntos?
+## 🎸 Beyond the Code
 
-Estou sempre à procura de novos desafios, conexões e oportunidades para colaborar em projetos que importam.  
-💬 **Vamos trocar uma ideia?** Você pode me encontrar aqui no LinkedIn ou enviar uma mensagem. Quem sabe o próximo grande projeto não começa aqui? 🚀
+When I’m not immersed in the world of bits and bytes, you might find me:
 
-**Café virtual? Aceito! ☕**
+- 🎸 Playing guitar like it's my favorite programming language  
+- 🍷 Discovering new wines and exploring flavors from around the world  
+- 🎮 Diving into digital universes (final bosses never see me coming)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelsonpalharini) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kelsonpalharini)
+---
 
+## 🤝 Let’s Build Something Together!
+
+I'm always looking for new challenges, meaningful connections, and opportunities to collaborate on projects that matter.  
+💬 **Let’s connect!** You can find me here on LinkedIn or drop me a message. Who knows — the next big project might start right here. 🚀
+
+**Virtual coffee? I’m in! ☕**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelsonpalharini)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kelsonpalharini)
